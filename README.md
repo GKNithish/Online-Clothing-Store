@@ -35,9 +35,9 @@ The platform includes a full admin dashboard for managing products, customers, a
  JavaScript - Client-side form validation 
  HTML / CSS - Structure and styling 
  Spry Assets - Adobe Dreamweaver UI components 
-
-Online-Clothing-Store/
-│
+ 
+📁 Project Structure
+Online-Clothing-Store 
 ├── Admin/                  # Admin panel pages
 ├── Connections/            # Database connection files
 ├── Customer/               # Customer-related pages
