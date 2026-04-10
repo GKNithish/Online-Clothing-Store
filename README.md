@@ -40,32 +40,30 @@ The platform includes a full admin dashboard for managing products, customers, a
 
 Online-Clothing-Store\
 
-├── Admin/                  # Admin panel pages
-├── Connections/            # Database connection files
-├── Customer/               # Customer-related pages
-├── Products/               # Product listing pages
-├── SpryAssets/             # Spry UI framework assets
-├── _mmServerScripts/       # Dreamweaver server scripts
-├── _notes/                 # Dreamweaver project notes
-├── db/                     # Database files / SQL scripts
-├── img/                    # Product and UI images
-
-├── index.php               # Homepage (Welcome / Landing page)
-├── index.html              # Static HTML entry point
-├── login.php               # User login page
-├── Register.php            # User registration page
-├── Products.php            # Products listing page
-├── Category.php            # Category browsing page
-├── Offers.php              # Offers and deals page
-├── Contact.php             # Contact us page
-├── Insert.php              # Insert/add product logic
-├── Header.php              # Reusable site header
-├── Footer.php              # Reusable site footer
-├── Right.php               # Right sidebar component
-├── Sample.php              # Sample/test page
-├── style.css               # Main stylesheet
-├── gen_validation.js       # JavaScript form validation
-└── .gitattributes          # Git configuration
+Admin/                  # Admin panel pages
+ Connections/            # Database connection files
+Customer/               # Customer-related pages
+Products/               # Product listing pages
+SpryAssets/             # Spry UI framework assets
+ mmServerScripts/       # Dreamweaver server scripts
+ notes/                 # Dreamweaver project notes
+ db/                     # Database files / SQL scripts
+img/                    # Product and UI images
+index.php               # Homepage (Welcome / Landing page)
+ index.html              # Static HTML entry point
+ login.php               # User login page
+Register.php            # User registration page
+ Products.php            # Products listing page
+Category.php            # Category browsing page
+ Contact.php             # Contact us page
+Insert.php              # Insert/add product logic
+Header.php              # Reusable site header
+Footer.php              # Reusable site footer
+Right.php               # Right sidebar component
+Sample.php              # Sample/test page
+ style.css               # Main stylesheet
+gen_validation.js       # JavaScript form validation
+.gitattributes          # Git configuration
 
 
 # Getting Started
